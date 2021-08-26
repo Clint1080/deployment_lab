@@ -101,7 +101,10 @@ h1 {
 }
 
 .cast_card {
-    max-width: 18rem;
+    max-width: 15rem;
+    background-color: lightgrey;
+    padding: 2rem;
+
 }
 
 .cast_card img {
