@@ -99,7 +99,7 @@ h1 {
     flex-wrap: wrap;
 }
 
-.cast_card {
+.cast_card img {
     border-radius: 100% 50%;
     max-width: 11rem;
     background-color: #f4f4f4;
