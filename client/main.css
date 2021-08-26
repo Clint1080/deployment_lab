@@ -11,7 +11,7 @@ nav ul {
     display: flex;
     flex-direction: row;
 }
-.nav_li {
+.nav_li a {
     padding: 1rem 1.75rem;
     border-left: 1px solid #c4c4c4;
 }
