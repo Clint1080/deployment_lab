@@ -97,6 +97,7 @@ h1 {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: space-evenly;
 }
 
 .cast_card img {
