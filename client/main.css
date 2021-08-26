@@ -114,3 +114,9 @@ h1 {
     background-color: #f4f4f4;
     padding: 1rem 2rem;
 }
+
+@media screen and (min-width: 767px) {
+    .section_1 {
+        min-height: 35rem
+    }
+}
