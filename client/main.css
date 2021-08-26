@@ -10,6 +10,7 @@ header {
 nav ul { 
     display: flex;
     flex-direction: row;
+    list-style-type: none;
 }
 .nav_li a {
     padding: 1rem 1.75rem;
