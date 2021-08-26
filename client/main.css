@@ -68,6 +68,10 @@ nav ul {
     border-right: 1px solid #c4c4c4;
 }
 
+section {
+    padding: 0 2rem;
+}
+
 .section_1 {
     content: "";
     min-height: 22rem;
