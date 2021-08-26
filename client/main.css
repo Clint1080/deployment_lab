@@ -90,3 +90,9 @@ h1 {
     flex-direction: row;
     flex-wrap: wrap;
 }
+
+.cast_card {
+    border-radius: 100% 50%;
+    max-width: 11rem;
+    background-color: #f4f4f4;
+}
