@@ -84,3 +84,8 @@ h1 {
     color: #fff;
     font-size: 1.75rem;
 }
+
+.cast_cards {
+    display: flex;
+    flex-direction: row;
+}
