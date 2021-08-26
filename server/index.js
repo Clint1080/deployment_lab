@@ -17,7 +17,7 @@ app.get("/css", (req, res) => {
 
 // app.use("/assets", express.static(path.join(__dirname, "../client/assets")));
 
-app.use(express.static("/client/assets"));
+app.use(express.static("assets"));
 
 const port = process.env.PORT || 4005
 
