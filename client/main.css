@@ -17,6 +17,8 @@ nav ul {
 .nav_li a {
     padding: 1rem 1.75rem;
     border-left: 1px solid #c4c4c4;
+    text-decoration: none;
+    color: #000;
 }
 .nav_li:last-child a{
     border-right: 1px solid #c4c4c4;
