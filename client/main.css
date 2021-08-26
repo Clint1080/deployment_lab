@@ -59,7 +59,7 @@ h1 {
     background-color: lightgrey;
     padding: 2rem;
     margin-top: 2rem;
-
+    border-radius: 15px;
 }
 
 .cast_card img {
