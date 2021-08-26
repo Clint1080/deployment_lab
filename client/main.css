@@ -68,6 +68,10 @@ nav ul {
     border-right: 1px solid #c4c4c4;
 }
 
+body {
+    overflow-x: hidden;
+}
+
 section {
     padding: 0 2rem;
 }
